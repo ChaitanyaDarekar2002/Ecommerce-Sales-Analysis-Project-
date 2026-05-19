@@ -67,17 +67,8 @@ The project is based on 5 main tables:
 * **Repeat Customer Rate** = Returning Customers / Total Customers
 
 ---
-
-## 📁 Project Structure
-
-```
-ecommerce-project/
-│── data/                # Dataset files (CSV/Excel)
-│── sql/                 # SQL queries
-│── dashboards/          # Tableau/Power BI files
-│── reports/             # Final report (PDF/Word)
-│── README.md            # Project documentation
-```
+# Dashboard Preriew
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/fae9ce1f-4314-47e7-acf1-064514633121" />
 
 ---
 
@@ -101,7 +92,7 @@ ecommerce-project/
 ## 👤  Chaitanya Darekar
 
 **Your Name**
-GitHub: https://github.com/chaitanyadarekar2002-wq
+GitHub: https://github.com/chaitanyadarekar2002
 
 ---
 
